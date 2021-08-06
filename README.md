@@ -1,7 +1,9 @@
 # DTA Cleaner
 
 Santiago Nunez-Corrales (nunezco@illinois.edu)
+
 Lan Li (lanl2@illinois.edu)
+
 Bertram Ludäscher (ludaesch@illinois.edu)
 
 

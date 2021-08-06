@@ -8,4 +8,7 @@ setup(name='dta_cleaner',
       author_email='nunezco2@illinois.edu, lanl2@illinois.edu, ludaesch@illinois.edu',
       license='MIT',
       packages=['dta_cleaner'],
+      install_requires=[
+            'pandas'
+      ],
       zip_safe=False)
